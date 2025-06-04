@@ -57,16 +57,6 @@ Nesta **versão 1**, vamos implementar 3 operações básicas:
 
 ---
 
-## 🙋‍♂️ Contato
-
-Qualquer dúvida ou sugestão, abra uma issue aqui no repositório! 💬
-
----
-
-**Vamos juntos modernizar a forma de fazer banco!** 🚀💙
-
----
-
 <div align="center">  
   <img src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge" alt="Status do Projeto"/>
 </div>
