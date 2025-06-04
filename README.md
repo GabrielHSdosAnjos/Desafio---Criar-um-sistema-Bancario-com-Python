@@ -12,7 +12,7 @@ O banco quer **modernizar suas operações** e escolheu a linguagem **Python** p
 
 Nesta **versão 1**, vamos implementar 3 operações básicas:  
 - 💰 Depósito  
-- 🏧 Saque  
+- 💸 Saque  
 - 📄 Extrato
 
 ---
@@ -26,7 +26,7 @@ Nesta **versão 1**, vamos implementar 3 operações básicas:
 
 ---
 
-## 🏧 Operação de Saque
+## 💸 Operação de Saque
 
 - O usuário pode realizar até **3 saques por dia**.  
 - Cada saque tem um limite máximo de **R$ 500,00**.  
