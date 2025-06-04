@@ -1,4 +1,4 @@
-print("\n💰🖖Bem-vindo ao Banco do Gabriel!🖖💰\n")
+print("\n💰🐍Bem-vindo ao Banco Pycash!🐍💰\n")
 
 # menuzinho básico
 menu = """
@@ -69,7 +69,7 @@ while True:
         print(f"\n💲 Saldo disponível: R$ {saldo:.2f}")
 
     elif opcao == "q":
-        print("\nSaindo... Obrigado por usar o Banco do Gabriel!🚪\n")
+        print("\nSaindo... Obrigado por usar o Banco Pycash!🚪\n")
         break
 
     else:
